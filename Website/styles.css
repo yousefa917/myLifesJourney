@@ -1,7 +1,7 @@
 /* Selector */
 p {
   color: gold;            /* Property: Value; */
-  font-size: 16px;        /* Property: Value; */
+  font-size: 24px;        /* Property: Value; */
 }
 body{background-color: #2E5A88;}
 h1 {
@@ -45,7 +45,7 @@ img {
 }
 li {
   color: gold;            /* Property: Value; */
-  font-size: 16px;        /* Property: Value; */
+  font-size: 34px;        /* Property: Value; */
 }
 a{
     color: gold;
