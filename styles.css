@@ -1,0 +1,67 @@
+/* Selector */
+p {
+  color: gold;            /* Property: Value; */
+  font-size: 24px;        /* Property: Value; */
+}
+body{background-color: #2E5A88;}
+h1 {
+    color: #FFD700;
+    border:solid;
+    border-width: 5px;
+    border-radius: 15px;
+    border-color: gold;
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+}
+ul {
+  color: gold;            /* Property: Value; */
+  font-size: 16px;        /* Property: Value; */
+}
+h2 {
+  color: gold;            /* Property: Value; */
+  }
+.lg-img {
+    width: 750px;
+}
+
+.thumb {
+    width: 175px;
+}
+
+.bg-red {
+    background-color: #4B75FF;
+    border-style: solid;
+    border-width: 5px;
+}
+
+.bg-turquoise {
+    background-color:red;
+
+}
+
+img {
+    width: 500px;
+}
+li {
+  color: gold;            /* Property: Value; */
+  font-size: 34px;        /* Property: Value; */
+}
+a{
+    color: gold;
+}
+.yemen{
+   height: 504.64px;
+}
+.increaselion{
+    height:888.88px;
+}
+.cover{
+    display: flex;
+    justify-content: center;
+
+}
+
+.veteran{
+    height: 666.66px;
+}
